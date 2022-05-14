@@ -1,5 +1,6 @@
 title: Mahri Stewart # your name (or website title) here
 [logo]: "/me.jpeg" # your photo (or logo) here
+[logo]: https://github.com/MahriScot/MahriScot.github.io/me.jpeg 
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data Analyst 
   <br><br>
